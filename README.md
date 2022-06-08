@@ -52,11 +52,21 @@ Non SLA app to check health status on services
   9) Click on review and create
 
   ![image](https://user-images.githubusercontent.com/105960409/172709471-3203deda-4f9e-409b-8964-acd91afe8bf6.png)
+  
+  10) Fill out the Alert rule information:
 
-  10) Alert example:
+  ![image](https://user-images.githubusercontent.com/105960409/172710686-92a5e0e3-2255-4536-8175-95eb941e7dc6.png)
+
+  11) Alert example:
 
   ![image](https://user-images.githubusercontent.com/105960409/172709907-a9681e70-f1cb-4aea-8797-5cda2769c6b0.png)
-
-
-
   
+  **Other options in the Health Services menu**
+  
+  ![image](https://user-images.githubusercontent.com/105960409/172710939-fd416282-66a9-4e42-a27b-c04dea7f47b7.png)
+
+    1 Planned maintenance: Planned time off for maintenance
+    2 Health Advisories: Messages about the planned or unplanned outages
+    3 Security advisories: Messages regarding platform security
+    4: Health history: A history of the health or security issues in the platform
+    5: Health alerts: Is where you can find the alerts you have created

@@ -1,5 +1,5 @@
-# AZ900-MonitoringServices
-All the monitoring services that Azure has(They are non SLA services)
+# AZ900-Azure-Health-Services
+Non SLA app to check health status on services
 
 **Azure service health**
 
